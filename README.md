@@ -35,3 +35,6 @@ We explored different **feature extraction techniques**, **normalization methods
    - Creation of the `final_submission.csv`, `final_submission_mm.csv`, and `final_submission_std.csv` for submission
 
 ---
+
+## Final result
+   - Achieved an RMSE of 9.250 on the evaluation set, obtaining the best performance on the test set among all teams from the Data Science and Engineering class at Politecnico di Torino.
